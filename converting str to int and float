@@ -1,4 +1,0 @@
-s = int(input())
-print(s,type(s),sep=',')
-x = float(input())
-print(round(x,1),type(x),sep=',')
